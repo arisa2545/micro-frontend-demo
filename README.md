@@ -1,6 +1,6 @@
 # Step to run
 
-- cd to remote-app
+**Go to remote-app**
 ```
 npm install
 ```
@@ -11,10 +11,12 @@ npm run build
 npm run preview
 ```
 
-- cd to host-app
+**Go to host-app**
 ```
 npm install
 ```
 ```
 npm run dev
 ```
+
+**Open localhost:3000 on brownser**

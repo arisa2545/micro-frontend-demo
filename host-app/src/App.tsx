@@ -1,5 +1,5 @@
 import './App.css'
-import Button from 'remote_app/Button';
+import Button from 'button_app/Button';
 
 function App() {
   return (
